@@ -103,7 +103,7 @@ Do you want to start new game? Y/N
 
 ## License 
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://github.com/michalski-marcin/Tic_Tac_toe/blob/master/LICENSE) License.
 
 
 ## Author
