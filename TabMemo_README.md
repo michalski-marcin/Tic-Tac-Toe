@@ -66,7 +66,7 @@ To set up this project locally, follow the steps below:
 
 ## Usage
 
-```text
+
 1. **Creating a Note**:
    - Click the TabMemo icon in the browser toolbar.
    - Enter your note in the input field and it will be saved automatically.
@@ -77,7 +77,7 @@ To set up this project locally, follow the steps below:
 
 3. **Managing Notes**:
    - Edit or delete notes from the tab list interface.
-```
+     
 
 ## Roadmap
 
